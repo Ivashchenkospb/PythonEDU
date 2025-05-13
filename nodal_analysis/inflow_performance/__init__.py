@@ -1,0 +1,1 @@
+from .ipr_model import IPR
